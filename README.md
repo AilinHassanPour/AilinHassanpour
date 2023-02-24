@@ -1,4 +1,10 @@
-### Hi there 👋
+# 👋 Hey there! Nice to meet you :) 
+
+### 👩‍💻 About me
+
+- 🌱 I’m currently learning Deep learning
+- 👩‍🎓 CE Student at Ferdowsi University of Mashhad
+
 
 <!--
 **AilinHasanpour/AilinHasanpour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
