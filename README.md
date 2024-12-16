@@ -1,5 +1,7 @@
 #  Ailin Hassan Pour  
 
+--- 
+
 ##  About Me  
 
 I'm a graduate of **Ferdowsi University of Mashhad (FUM)** with a deep passion for **Artificial Intelligence** and its transformative applications in **computer vision** and **healthcare**.
